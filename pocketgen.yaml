@@ -187,7 +187,6 @@ dependencies:
   - mkl_fft=1.3.1=py38hd3c417c_0
   - mkl_random=1.2.2=py38h51133e4_0
   - mmseqs2=13.45111=pl5321hf1761c0_2
-  - modeller=10.4=py38h9bf148f_0
   - mpfr=4.2.1=h9458935_0
   - mscorefonts=0.0.1=3
   - multidict=6.0.2=py38h5eee18b_0
@@ -210,7 +209,6 @@ dependencies:
   - ocl-icd=2.3.1=h7f98852_0
   - ocl-icd-system=1.0.0=1
   - openbabel=3.1.1=py38hd2c4bc0_3
-  - openeye-toolkits=2023.1.0=py38_0
   - openff-forcefields=2023.08.0=pyh1a96a4e_0
   - openff-toolkit=0.10.7=pyhd8ed1ab_0
   - openff-toolkit-base=0.10.7=pyhd8ed1ab_0
@@ -347,9 +345,8 @@ dependencies:
       - antlr4-python3-runtime==4.9.3
       - argparse==1.4.0
       - atom3d==0.2.6
-      - autodocktools-py3==1.5.7.post1+9.gda0c87c
       - bio==1.5.9
-      - biopython==1.79
+      - biopython==1.80
       - biothings-client==0.3.0
       - blosc2==2.0.0
       - configargparser==0.0.2
@@ -418,7 +415,6 @@ dependencies:
       - posebusters==0.2.6
       - pox==0.3.3
       - ppft==1.7.6.7
-      - prody==2.4.1
       - prolif==2.0.0.post1
       - propka==3.5.0
       - py3dmol==2.0.4
@@ -426,9 +422,7 @@ dependencies:
       - pydantic==2.4.2
       - pydantic-core==2.10.1
       - pydub==0.25.1
-      - pyg-lib==0.2.0+pt113cu117
       - pygsp==0.5.1
-      - pykeops==1.6
       - pyrr==0.10.3
       - python-dotenv==1.0.0
       - python-multipart==0.0.6
@@ -436,7 +430,6 @@ dependencies:
       - pytraj==2.0.6
       - pyvtk==0.5.18
       - rdkit==2023.3.3
-      - rdkit-heatmap==0.1
       - rdkit-pypi==2022.9.5
       - sander==22.0
       - seaborn==0.12.2
@@ -450,13 +443,7 @@ dependencies:
       - sympy==1.12
       - tenacity==8.2.3
       - toolz==0.12.0
-      - torch-cluster==1.6.1+pt113cu117
       - torch-geometric==2.3.1
-      - torch-scatter==2.1.1+pt113cu117
-      - torch-sparse==0.6.17+pt113cu117
-      - torch-spline-conv==1.2.2+pt113cu117
-      - torchdrug==0.2.1
-      - torchmetrics==1.2.0
       - typing-extensions==4.8.0
       - uvicorn==0.23.2
       - vina==1.2.2
