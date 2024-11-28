@@ -1,3 +1,5 @@
+# This repo is a fork : original repo is available here : https://github.com/zaixizhang/PocketGen
+
 # :loudspeaker: PocketGen: Generating Full-Atom Ligand-Binding Protein Pockets
 
 <div align=center>
